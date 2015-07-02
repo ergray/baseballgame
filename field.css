@@ -1,0 +1,49 @@
+.onBase {
+	background-color: blue;
+	width: 40px;
+	height: 40px;
+
+}
+
+.green {
+	background-color: green;
+	width: 40px;
+	height: 40px;
+	padding: 0px;
+}
+
+.base {
+	background-color: #333333;
+	width: 40px;
+	height: 40px;
+	padding: 0px;
+}
+
+.billboard {
+	width: 200px;
+	height: 40px;
+	border: 1px solid black;
+}
+
+
+.mound {
+	background-color: brown;
+	width: 40px;
+	height: 40px;
+	padding: 0px;
+}
+
+.outField {
+	background-color: yellow;
+	width: 40px;
+	height: 40px;
+	padding: 0px;
+}
+
+.hit {
+	background-color: red;
+	width: 40px;
+	height: 40px;
+	text-alignment: center;
+	text-color: white;
+}
